@@ -1,1 +1,1 @@
-# https-hmody.nightscoutpro.com-
+https://hmody.nightscoutpro.com/
